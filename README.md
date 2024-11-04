@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lulouqq
-- 👀 I’m interested in JS, Py, AI, Crypto and more
+- 👀 I’m interested in JS, Py, AI and more
 - 🌱 I’m currently learning JS, git
 - 💞️ I’m looking to collaborate on anything
 
